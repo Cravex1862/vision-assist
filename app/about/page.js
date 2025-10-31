@@ -36,8 +36,8 @@ export default function AboutPage(){
           <h1 className="h1">Making the world more accessible</h1>
           <p className="p">Vision Assist connects people who are blind or have low vision with volunteers and companies worldwide through live video and description. Our goal is to make everyday tasks simpler through the power of connection.</p>
         </div>
-        <div className="hero-media">
-          <img alt="Smiling person with sunglasses holding a cane" src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1200&auto=format&fit=crop"/>
+<div className="hero-media">
+          <img alt="Person with vision loss crossing a street" src="https://www.ncoa.org/_next/image/?url=https%3A%2F%2Fassets-us-01.kc-usercontent.com%3A443%2Fffacfe7d-10b6-0083-2632-604077fd4eca%2Fc243c428-1681-4c8e-839e-6cf0156ec5db%2FSenior-man-with-vision-loss-crossing-street_Hero_iStock-1292075242_2021-05_1336x614.jpg&w=1200&q=75"/>
         </div>
       </section>
 

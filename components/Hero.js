@@ -3,7 +3,7 @@ export default function Hero(){
     <section className="section container hero" id="app" aria-labelledby="hero-heading">
       <div className="hero-card">
         <h1 id="hero-heading" className="h1">Let’s see the world together</h1>
-        <p className="p">Vision Assist connects blind or low‑vision users who want assistance with friendly volunteers and companies around the world. The app uses AI to describe surroundings through live video. This website showcases the app — no AI runs here.</p>
+<p className="p">Vision Assist uses AI to describe your surroundings instantly. Tap once to get a description; long‑press to ask follow‑up questions. No people involved — private, fast, and available 24/7. This website only showcases the app; no AI runs here.</p>
         <div style={{marginTop:20}}>
           <a className="btn btn-primary" href="#download">Download App</a>
         </div>

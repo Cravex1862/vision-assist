@@ -13,12 +13,12 @@ export default function Stats(){
         <div className="stat">
           <div className="label">Live</div>
           <div className="value">9,439,850</div>
-          <div className="label">Volunteers</div>
+          <div className="label">Descriptions served</div>
         </div>
         <div className="stat">
           <div className="label">Live</div>
           <div className="value">920,856</div>
-          <div className="label">Blind & low‑vision</div>
+          <div className="label">Active users</div>
         </div>
         <div className="stat">
           <div className="value">150+</div>
