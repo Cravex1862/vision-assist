@@ -13,6 +13,12 @@ export default function NavBar(){
     return () => window.removeEventListener('keydown', onEsc)
   }, [])
 
+  useEffect(() => {
+    // lock background scroll when drawer is open
+    document.body.style.overflow = open ? 'hidden' : ''
+    return () => { document.body.style.overflow = '' }
+  }, [open])
+
   return (
     <nav className="nav">
       <div className="container nav-inner">

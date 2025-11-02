@@ -80,10 +80,10 @@ html[data-theme="contrast"] .logo-dark, html[data-theme="contrast"] .logo-light{
 
 /* Drawer */
 .overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);backdrop-filter:blur(2px)}
-.drawer{position:fixed;top:0;right:0;height:100%;width:320px;max-width:85vw;background:rgba(17,18,22,.6);backdrop-filter:saturate(140%) blur(8px);border-left:1px solid var(--outline);padding:24px;transform:translateX(0);animation:slideIn .2s ease-out;overflow-y:auto;display:flex;flex-direction:column}
+.drawer{position:fixed;top:0;right:0;height:100vh;max-height:100vh;width:320px;max-width:85vw;background:rgba(17,18,22,.6);backdrop-filter:saturate(140%) blur(8px);border-left:1px solid var(--outline);padding:32px;transform:translateX(0);animation:slideIn .2s ease-out;overflow:hidden;display:flex;flex-direction:column}
 html[data-theme="light"] .drawer{background:rgba(245,245,248,.6)}
 html[data-theme="contrast"] .drawer{background:rgba(0,0,0,.6)}
-.drawer-nav{display:flex;flex-direction:column;gap:22px;margin-top:24px}
+.drawer-nav{display:flex;flex-direction:column;gap:28px;margin:24px 0;flex:1;justify-content:center}
 .drawer-nav a{font-weight:700;color:var(--text);display:block;font-size:18px;padding:6px 0}
 .close{background:transparent;border:none;color:var(--text);font-size:28px;line-height:1;padding:6px}
 @keyframes slideIn{from{transform:translateX(100%)}to{transform:translateX(0)}}
