@@ -8,7 +8,7 @@ export default function Footer(){
         <div style={{display:'flex',gap:16}}>
           <a href="#privacy" style={{color:'inherit',textDecoration:'none'}}>Privacy</a>
           <a href="#terms" style={{color:'inherit',textDecoration:'none'}}>Terms</a>
-          <a href="#download" className="btn btn-primary">Download App</a>
+          <a href="http://u3fxo0q-abhinavramanan-8081.exp.direct/_expo/loading" className="btn btn-primary">Download App</a>
         </div>
       </div>
     </footer>

@@ -5,7 +5,7 @@ export default function Hero(){
         <h1 id="hero-heading" className="h1">Let’s see the world together</h1>
 <p className="p">Vision Assist uses AI to describe your surroundings instantly. Tap once to get a description; long‑press to ask follow‑up questions. No people involved — private, fast, and available 24/7. This website only showcases the app; no AI runs here.</p>
         <div style={{marginTop:20}}>
-          <a className="btn btn-primary" href="#download">Download App</a>
+          <a className="btn btn-primary" href="http://u3fxo0q-abhinavramanan-8081.exp.direct/_expo/loading">Download App</a>
         </div>
       </div>
       <div className="hero-media" aria-hidden="true">

@@ -1,9 +1,13 @@
 function Card({title, children, cta}){
+  const href = cta === 'Download App'
+    ? 'http://u3fxo0q-abhinavramanan-8081.exp.direct/_expo/loading'
+    : '#download'
+
   return (
     <div className="card">
       <h3>{title}</h3>
       <p>{children}</p>
-      <a className="btn btn-primary" href="#download">{cta}</a>
+      <a className="btn btn-primary" href={href}>{cta}</a>
     </div>
   )
 }

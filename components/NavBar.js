@@ -39,7 +39,7 @@ export default function NavBar(){
           <Link href="/">The App</Link>
           <Link href="/about">About Us</Link>
           <Link href="/contact">Contact Us</Link>
-          <a className="btn btn-primary" href="#download">Download App</a>
+          <a className="btn btn-primary" href="http://u3fxo0q-abhinavramanan-8081.exp.direct/_expo/loading">Download App</a>
           <ThemeSwitcher />
         </div>
       </div>
@@ -59,7 +59,7 @@ export default function NavBar(){
               <Link href="/" onClick={()=>setOpen(false)}>The App</Link>
               <Link href="/about" onClick={()=>setOpen(false)}>About Us</Link>
               <Link href="/contact" onClick={()=>setOpen(false)}>Contact Us</Link>
-              <a className="btn btn-primary" href="#download" onClick={()=>setOpen(false)}>Download App</a>
+              <a className="btn btn-primary" href="http://u3fxo0q-abhinavramanan-8081.exp.direct/_expo/loading" onClick={()=>setOpen(false)}>Download App</a>
               <div style={{marginTop:10}}>
                 <ThemeSwitcher />
               </div>
