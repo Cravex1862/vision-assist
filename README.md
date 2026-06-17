@@ -24,7 +24,6 @@ Repository: https://github.com/Cravex1862/vision-assist
 
 ---
 
-## Contact
+## Note
 
-Ashwin Choudhury
-Project Link: https://github.com/Cravex1862/vision-assist
+This project is archived and will no longer be worked on. The original app has been taken down, and this website just remains as a project in my portfolio.
