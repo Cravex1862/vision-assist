@@ -26,4 +26,4 @@ Repository: https://github.com/Cravex1862/vision-assist
 
 ## Note
 
-This project is archived and will no longer be worked on. The original app has been taken down, and this website just remains as a project in my portfolio.
+This project is archived and will no longer be worked on. The original app has been taken down, and this website just remains as a project in my portfolio. Made in collaboration with Abhinav Ramanan, check out his portfolio at [abhinavramanan.me](url)
